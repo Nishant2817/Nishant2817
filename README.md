@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Nishant Pandey  <br>💻 B .Tech Student | Frontend Developer  <br>🚀 Currently learning: Next.js, Prisma , Backend Developer<br>🎯 Goal:  To Become a Full Stack Developer  <br>⚡ Fun fact: I love building UI that looks clean & modern<br>📫 Contact me : nishantpandey1838@gmail.com
+👋 Hi, I'm Nishant Pandey  <br>💻 B .Tech Student | Frontend Developement  <br>🚀 Currently learning: Next.js, Prisma , Backend Developer<br>🎯 Goal:  To Become a Full Stack Developer  <br>⚡ Fun fact: I love building UI that looks clean & modern<br>📫 Contact me : nishantpandey1838@gmail.com
 
 
 ## 🌐 Socials:
