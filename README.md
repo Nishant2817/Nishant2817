@@ -21,14 +21,13 @@
 
 ## 💼 Featured Projects
 
-### 🔹 Crowdfunding Platform
+### 🔹Get Me A Chai (Crowdfunding Platform)
 - 💳 Razorpay Payment Integration
 - 🔐 GitHub OAuth Authentication
 - 📊 Creator Dashboard + Leaderboard  
 - ⚙️ Built with Next.js, MongoDB  
 
 🔗 **Live Demo:** [Add Link]  
-🔗 **GitHub Repo:** [Add Link]
 
 ---
 
@@ -38,8 +37,6 @@
 - ⚡ Optimized Performance  
 
 🔗 **Live Demo:** [Add Link]  
-🔗 **GitHub Repo:** [Add Link]
-
 ---
 
 ## 📊 GitHub Stats
@@ -52,8 +49,8 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:nishantpandey1838@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/nishant-pandey-2b6a062b6/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mail to:nishantpandey1838@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
