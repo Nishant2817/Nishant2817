@@ -52,7 +52,8 @@
   <a href="https://www.linkedin.com/in/nishant-pandey-2b6a062b6/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mail to:nishantpandey1838@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="mailto:nishantpandey1838@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
