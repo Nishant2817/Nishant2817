@@ -4,7 +4,7 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 Final Year B.Tech (Computer Science)
+- 🎓 Final Year B.Tech (Computer Science & Engineering)
 - 💻 Full Stack Developer skilled in MERN & Next.js
 - 🔐 Built projects with Authentication & Payment Integration
 - 🚀 Passionate about building scalable web applications
